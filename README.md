@@ -12,7 +12,7 @@
 <p>For example, the first player, Donald, begins a turn with a roll of 5. Donald could hold and score 5 points, but chooses to roll again. Donald rolls a 2, and could hold with a turn total of 7 points, but chooses to roll again. Donald rolls a 1, and must end his turn without scoring. The next player, Alexis, rolls the sequence 4-5-3-5-6, after which she chooses to hold, and adds her turn total of 23 points to her score..</p>
 
 <h2>How it works behind the scene?</h2>
-<img src="pig-game-flowchart.png" width="60%">
+<img src="pig-game-flowchart.png" width="100%">
 
 <h2>License:</h2>
 <p>This project is licensed under the MIT License.</p>
